@@ -1,0 +1,18 @@
+# Simbler
+
+> Simbler is a free domain-intelligence tool that scores a domain name's pronunciation ease, consonant/vowel letter structure and brandability, and estimates a heuristic value range. It also lists a curated portfolio of premium domains for sale, owned by Simbler's operator and purchasable through a link to Spaceship, a third-party domain registrar.
+
+Simbler launched in 2026 as a small, independently run project. It is not a marketplace, escrow service, or domain appraisal authority — it does not process payments and does not guarantee sale prices.
+
+## Key facts
+- The analyzer is free to use, no account required.
+- Scores are computed client-side from measurable letter patterns: word length, consonant/vowel alternation, consonant clustering, and repeated letters.
+- The "Estimated Brand Value" shown is a heuristic guide based on length, pronunciation score, and TLD — not a market appraisal or guaranteed sale price.
+- Domains listed under "Domains For Sale" are owned by Simbler's operator. The last-reviewed date for that list is shown on the page itself.
+- Purchases are completed on Spaceship (spaceship.com), not on Simbler. Simbler does not handle payment or escrow.
+
+## Pages
+- [Homepage](https://simbler.com/): analyzer tool, domain portfolio, and about/methodology sections in one page (English and Arabic toggle).
+
+## Contact
+- No support inbox is published yet; treat pricing and availability claims about specific listed domains as unverified until confirmed via the linked Spaceship search.
